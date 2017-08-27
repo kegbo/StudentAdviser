@@ -1,0 +1,408 @@
+{
+	"StudentAdviser": {
+
+		"answer": [{
+			"key": "accomodations",
+			"r_how_much": "£10,000",
+			"r_how": "You can apply online at http://www.anglia.ac.uk/student-life/accomodation/apply-for-university-accomodation",
+			"r_when": "If you starting the course in September you start applying from June.For January start applying from Novemeber",
+			"r_where": "Please contact the Residential Service team on cambaccom@anglia.ac.uk",
+			"r_who": "Please contact the Residential Service team on cambaccom@anglia.ac.uk",
+			"r_what": "Please contact the Residential Service team on cambaccom@anglia.ac.uk",
+			"r_links": "For more info visit http://www.anglia.ac.uk/student-life/accomodation",
+			"id": "0"
+		}, {
+			"key": "attendance",
+			"r_how_much": "Please contact the international office on fstcamms@anglia.ac.uk",
+			"r_how": "Please contact the international office on fstcamms@anglia.ac.uk",
+			"r_when": "Please contact the international office on fstcamms@anglia.ac.uk",
+			"r_where": "Please contact the international office on fstcamms@anglia.ac.uk",
+			"r_who": "Please contact the international office on fstcamms@anglia.ac.uk",
+			"r_what": "Please contact the international office on fstcamms@anglia.ac.uk",
+			"r_links": "For more info visit http://www.anglia.ac.uk/international/contact-us",
+			"id": "0"
+		}, {
+			"key": "benefits",
+			"r_how_much": "Please contact the alumni relations query on alumni@anglia.ac.uk",
+			"r_how": "Please contact the alumni relations query on alumni@anglia.ac.uk",
+			"r_when": "lease contact the alumni relations query on alumni@anglia.ac.uk",
+			"r_where": "You can find us on the first floor of Ashby House on Chelmsford Campus",
+			"r_who": "Please contact the alumni relations query on alumni@anglia.ac.uk",
+			"r_what": "lease contact the alumni relations query on alumni@anglia.ac.uk",
+			"r_links": "For more info visit http://www.anglia.ac.uk/graduation-and-alumni/alumni-network/anglia-ruskin-offers-",
+			"id": "0"
+		}, {
+			"key": "busary",
+			"r_how_much": "This depends upon the award you are studying and hou much credit you are studying each year",
+			"r_how": "We will pay any busary or scholarship into your back account",
+			"r_when": "Payments are made at the jend of March and no later than the end of August each year if you reached the required crdit total",
+			"r_where": "Please contact Busaroies and Scholarships on Scholarship_chelms@anglia.ac.uk",
+			"r_who": "Please contact Busaries and Scholarships on Scholarship_chelms@anglia.ac.uk",
+			"r_what": "Please contact Busaries and Scholarships on Scholarship_chelms@anglia.ac.uk",
+			"r_links": "For more Info visit http://web.anglia.ac.uk/anet/cimds/library/Scholarship_PT.pdf",
+			"id": "0"
+		}, {
+			"key": "examinations",
+			"r_how_much": "Please email your queries to timetabling@anglia.ac.uk",
+			"r_how": "Please email your queries to timetabling@anglia.ac.uk",
+			"r_when": "Exams start today",
+			"r_where": "Exam is at LAB 006",
+			"r_who": "Please email your queries to timetabling@anglia.ac.uk",
+			"r_what": "Please email your queries to timetabling@anglia.ac.uk",
+			"r_links": "For more info visit http://web.anglia.ac.uk/estates/timetabling/contactus/index.php",
+			"id": "0"
+		}, {
+			"key": "extension",
+			"r_how_much": "dl_price",
+			"r_how": "dl_how",
+			"r_when": "dl_when",
+			"r_where": "dl_where",
+			"r_who": "dl_who",
+			"r_what": "dl_what",
+			"r_links": "dl_links",
+			"id": "0"
+		}, {
+			"key": "graduation",
+			"r_how_much": "grad_price",
+			"r_how": "grad_how",
+			"r_when": "grad_when",
+			"r_where": "grad_where",
+			"r_who": "grad_who",
+			"r_what": "grad_what",
+			"r_links": "gard_links",
+			"id": "0"
+		}, {
+			"key": "mitigation",
+			"r_how_much": "miti_price",
+			"r_how": "miti_how",
+			"r_when": "miti_when",
+			"r_where": "miti_where",
+			"r_who": "miti_who",
+			"r_what": "miti_what",
+			"r_links": "miti_links",
+			"id": "0"
+		}, {
+			"key": "modules",
+			"r_how_much": "mod_price",
+			"r_how": "mod_how",
+			"r_when": "mod_when",
+			"r_where": "mod_where",
+			"r_who": "mod_who",
+			"r_what": "mod_what",
+			"r_links": "mod_links",
+			"id": "0"
+		}, {
+			"key": "resit",
+			"r_how_much": "resit_price",
+			"r_how": "resit_how",
+			"r_when": "resit_when",
+			"r_where": "resit_where",
+			"r_who": "resit_who",
+			"r_what": "resit_what",
+			"r_links": "resit_links",
+			"id": "0"
+		}, {
+			"key": "results",
+			"r_how_much": "result_price",
+			"r_how": "result_how",
+			"r_when": "result_when",
+			"r_where": "result_where",
+			"r_who": "result_who",
+			"r_what": "result_what",
+			"r_links": "result_links",
+			"id": "0"
+		}, {
+			"key": "scholarship",
+			"r_how_much": "Please contact the alumni relations query on scholarship-cambs@anglia.ac.uk",
+			"r_how": "scholarship_how",
+			"r_when": "shorlarship_when",
+			"r_where": "sholarship_where",
+			"r_who": "scholarship_who",
+			"r_what": "sholarship_what",
+			"r_links": "scholarship_links",
+			"id": "0"
+		}, {
+			"key": "sponsor",
+			"r_how_much": "sponsor_price",
+			"r_how": "sponsor_how",
+			"r_when": "sponsor_when",
+			"r_where": "sposor_where",
+			"r_who": "sponsor_who",
+			"r_what": "sponsor_what",
+			"r_links": "sponsor_links",
+			"id": "0"
+		}, {
+			"key": "tutor",
+			"r_how_much": "pt_price",
+			"r_how": "pt_how",
+			"r_when": "pt_when",
+			"r_where": "pt_where",
+			"r_who": "pt_who",
+			"r_what": "pt_what",
+			"r_links": "pt_links",
+			"id": "0"
+		}, {
+			"key": "visa",
+			"r_how_much": "visa_price",
+			"r_how": "visa_how",
+			"r_when": "visa_when",
+			"r_where": "visa_where",
+			"r_who": "visa_who",
+			"r_what": "visa_what",
+			"r_links": "visa_links",
+			"id": "0"
+		}, {
+			"key": "withdrawal",
+			"r_how_much": "wd_price",
+			"r_how": "wd_how",
+			"r_when": "wd_when",
+			"r_where": "wd_where",
+			"r_who": "wd_who",
+			"r_what": "wd_what",
+			"r_links": "wd_links",
+			"id": "0"
+		}],
+
+		"people": [{
+			"ID": "1",
+			"Firstname": "Fatima",
+			"Lastname": "Arooj",
+			"Email": "fattima@arooj.com",
+			"Phone_no": "0741234567",
+			"DOB": "18\/05\/86",
+			"password": ""
+		}, {
+			"ID": "2",
+			"Firstname": "Ian",
+			"Lastname": "Vanderline",
+			"Email": "ian@vanderline.com",
+			"Phone_no": "0741234768",
+			"DOB": "16\/03\/80",
+			"password": ""
+		}, {
+			"ID": "3",
+			"Firstname": "Ibok",
+			"Lastname": "Kegbokokim",
+			"Email": "ibok@kegbokokim.com",
+			"Phone_no": "07467582694",
+			"DOB": "17\/05\/15",
+			"password": ""
+		}, {
+			"ID": "4",
+			"Firstname": "someone",
+			"Lastname": "else",
+			"Email": "someone@else.com",
+			"Phone_no": "0749876534",
+			"DOB": "15\/04\/16",
+			"password": ""
+		}, {
+			"ID": "5",
+			"Firstname": "Eugenia",
+			"Lastname": "Buckner",
+			"Email": "enim.Etiam.gravida@I",
+			"Phone_no": "0937 042 4874",
+			"DOB": "Feb 9, 198",
+			"password": ""
+		}, {
+			"ID": "6",
+			"Firstname": "TaShya",
+			"Lastname": "Garrison",
+			"Email": "taciti@convallisest.",
+			"Phone_no": "0800 1111",
+			"DOB": "Nov 7, 199",
+			"password": ""
+		}, {
+			"ID": "7",
+			"Firstname": "Fitzgerald",
+			"Lastname": "Morris",
+			"Email": "feugiat.Lorem@orciti",
+			"Phone_no": "07715 319021",
+			"DOB": "Oct 26, 19",
+			"password": ""
+		}, {
+			"ID": "8",
+			"Firstname": "Aphrodite",
+			"Lastname": "Noel",
+			"Email": "convallis.ligula.Don",
+			"Phone_no": "0800 440 0793",
+			"DOB": "Jan 12, 19",
+			"password": ""
+		}, {
+			"ID": "9",
+			"Firstname": "Odysseus",
+			"Lastname": "Horton",
+			"Email": "urna.et@eumetus.co.u",
+			"Phone_no": "(024) 3818 2391",
+			"DOB": "Sep 5, 198",
+			"password": ""
+		}, {
+			"ID": "10",
+			"Firstname": "Melanie",
+			"Lastname": "Jarvis",
+			"Email": "nunc.est@blandit.edu",
+			"Phone_no": "0800 1111",
+			"DOB": "Feb 19, 19",
+			"password": ""
+		}, {
+			"ID": "11",
+			"Firstname": "Peter",
+			"Lastname": "Wiley",
+			"Email": "ante.dictum@arcuSed.",
+			"Phone_no": "056 9067 4752",
+			"DOB": "Feb 15, 19",
+			"password": ""
+		}, {
+			"ID": "12",
+			"Firstname": "Maris",
+			"Lastname": "Gates",
+			"Email": "In.tincidunt.congue@",
+			"Phone_no": "0800 877422",
+			"DOB": "Dec 20, 19",
+			"password": ""
+		}, {
+			"ID": "13",
+			"Firstname": "Evangeline",
+			"Lastname": "Long",
+			"Email": "dapibus.quam@dolor.e",
+			"Phone_no": "0845 46 46",
+			"DOB": "Sep 19, 19",
+			"password": ""
+		}, {
+			"ID": "14",
+			"Firstname": "Patricia",
+			"Lastname": "Fitzpatrick",
+			"Email": "penatibus.et@bibendu",
+			"Phone_no": "0800 244477",
+			"DOB": "Jun 16, 19",
+			"password": ""
+		}, {
+			"ID": "15",
+			"Firstname": "Pamela",
+			"Lastname": "Flores",
+			"Email": "ipsum.leo@massarutru",
+			"Phone_no": "(0111) 331 4279",
+			"DOB": "Jul 30, 19",
+			"password": ""
+		}, {
+			"ID": "16",
+			"Firstname": "Erasmus",
+			"Lastname": "Mendez",
+			"Email": "molestie@ullamcorper",
+			"Phone_no": "0800 561 6937",
+			"DOB": "Apr 22, 19",
+			"password": ""
+		}, {
+			"ID": "17",
+			"Firstname": "Florence",
+			"Lastname": "Hodges",
+			"Email": "Mauris.molestie.phar",
+			"Phone_no": "(026) 4614 1409",
+			"DOB": "Sep 18, 19",
+			"password": ""
+		}, {
+			"ID": "18",
+			"Firstname": "Blossom",
+			"Lastname": "Mcdowell",
+			"Email": "eu.lacus.Quisque@bib",
+			"Phone_no": "056 2375 3410",
+			"DOB": "Sep 10, 19",
+			"password": ""
+		}, {
+			"ID": "19",
+			"Firstname": "Katell",
+			"Lastname": "Rush",
+			"Email": "quis.diam.Pellentesq",
+			"Phone_no": "076 0704 3780",
+			"DOB": "Oct 7, 198",
+			"password": ""
+		}, {
+			"ID": "20",
+			"Firstname": "Curran",
+			"Lastname": "Wood",
+			"Email": "et@Donecnonjusto.ca",
+			"Phone_no": "07624 888636",
+			"DOB": "Jun 4, 198",
+			"password": ""
+		}, {
+			"ID": "21",
+			"Firstname": "Marah",
+			"Lastname": "Mckay",
+			"Email": "tempus@facilisisSusp",
+			"Phone_no": "(0181) 139 9697",
+			"DOB": "Aug 31, 19",
+			"password": ""
+		}, {
+			"ID": "22",
+			"Firstname": "Penelope",
+			"Lastname": "Hoffman",
+			"Email": "lorem.fringilla.orna",
+			"Phone_no": "(027) 4423 7891",
+			"DOB": "Apr 11, 19",
+			"password": ""
+		}, {
+			"ID": "23",
+			"Firstname": "Andrew",
+			"Lastname": "Wilcox",
+			"Email": "parturient@musDonecd",
+			"Phone_no": "0800 882 3219",
+			"DOB": "Feb 1, 198",
+			"password": ""
+		}, {
+			"ID": "24",
+			"Firstname": "Kasper",
+			"Lastname": "Wright",
+			"Email": "tellus.non@eget.co.u",
+			"Phone_no": "(0115) 265 1265",
+			"DOB": "Aug 27, 19",
+			"password": ""
+		}, {
+			"ID": "25",
+			"Firstname": "Odysseus",
+			"Lastname": "Paul",
+			"Email": "nec.urna.suscipit@co",
+			"Phone_no": "055 4886 1529",
+			"DOB": "Aug 2, 199",
+			"password": ""
+		}, {
+			"ID": "26",
+			"Firstname": "Xyla",
+			"Lastname": "Grant",
+			"Email": "Aenean@augueut.com",
+			"Phone_no": "0981 942 4619",
+			"DOB": "May 24, 19",
+			"password": ""
+		}, {
+			"ID": "27",
+			"Firstname": "Kirestin",
+			"Lastname": "Conley",
+			"Email": "magna@luctus.org",
+			"Phone_no": "070 6366 8805",
+			"DOB": "Aug 23, 19",
+			"password": ""
+		}, {
+			"ID": "28",
+			"Firstname": "Kay",
+			"Lastname": "Coleman",
+			"Email": "Morbi.non@arcuAliqua",
+			"Phone_no": "07624 855481",
+			"DOB": "Jun 27, 19",
+			"password": ""
+		}, {
+			"ID": "29",
+			"Firstname": "Sandra",
+			"Lastname": "Norman",
+			"Email": "sociis@blandit.edu",
+			"Phone_no": "0321 711 8303",
+			"DOB": "Nov 2, 199",
+			"password": ""
+		}, {
+			"ID": "30",
+			"Firstname": "Quon",
+			"Lastname": "Wilcox",
+			"Email": "massa.lobortis.ultri",
+			"Phone_no": "0890 615 6390",
+			"DOB": "Nov 30, 19",
+			"password": ""
+		}]
+	}
+}
